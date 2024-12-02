@@ -1,14 +1,14 @@
 ## Instagram  ##
 <br>
- Ste iinstagram criado pelo Canvas e HTML5
+ Site instagram criado pelo Canvas e HTML5
 
 ## Descrição do projeto ##
 <br>
-este site foi baseado no site instagram criando a mesma estrutura dele, e ultilizando alguns recurso que o site tem em comum.
+Este site foi baseado no site instagram criando a mesma estrutura dele, e ultilizando alguns recurso que o site tem em comum.
 
 ## Funcionalidades ##
 <br>
-<P>O site consiste em mostrar a foto do meu perfil, o meu username, meu nome ,minhas publicações,seguidores e quantos eu sigo e minha bio</P>
+<P>O Site consiste em mostrar a foto do meu perfil, o meu username, meu nome ,minhas publicações,seguidores e quantas pessoas eu sigo, e minha bio</P>
 
 ## Deploy ##
 <br>
